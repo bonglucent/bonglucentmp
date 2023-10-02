@@ -212,13 +212,13 @@ header h1 {
   .social-links a:hover {
     color: #007bff; /* Change color on hover */
   }
-  @media screen and (max-width:400px)
+  @media screen and (max-width:360px)
   {
     
     .contact-item,
 .address {
     flex: 1;
-    margin-right:24px;
+    margin-right:19px;
 }
   }
   
